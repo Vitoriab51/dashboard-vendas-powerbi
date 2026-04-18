@@ -58,7 +58,7 @@ Analisar o desempenho de vendas, identificar o melhor vendedor e entender a evol
 ## 📷 Dashboard
 
 
-Veja meu dashboard aqui: ![Dashboard](./imagem/dashboard.png)
+Veja meu dashboard aqui: ![Dashboard](./imagem/Dashboard.png)
 
 ---
 
