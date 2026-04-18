@@ -76,17 +76,6 @@ Veja meu dashboard aqui: ![Dashboard](Dashboard.png)
 * Modelagem de Dados
 
 ---
-## 📜 Certificados
-
-### 📄 Certificado Power BI
-![Certificado Power BI](CertificadoPowerBi.jpg)
-
-### 📄 Certificado Excel
-![Certificado Excel](CertificadoExcel.jpg)
-
----
-
-# 📫 Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/vitoria-bernardes-2332b4345
 
