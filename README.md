@@ -58,7 +58,7 @@ Analisar o desempenho de vendas, identificar o melhor vendedor e entender a evol
 ## 📷 Dashboard
 
 
-Veja meu dashboard aqui: ![Dashboard](./imagem/Dashboard.png)
+Veja meu dashboard aqui: ![Dashboard](./imagem/dashboard.png)
 
 ---
 
@@ -82,7 +82,7 @@ Veja meu dashboard aqui: ![Dashboard](./imagem/Dashboard.png)
 ![Certificado Power BI](./imagem/CertificadoPowerBi.jpg)
 
 ### 📄 Certificado Excel
-![Certificado SQL](./imagem/CertificadoExcel.jpg)
+![Certificado SQL](./imagem/CertificadoExcel.png)
 
 ---
 
