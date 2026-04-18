@@ -74,15 +74,19 @@ Veja meu dashboard aqui: ![Dashboard](./imagem/dashboard.png)
 * SQL
 * DAX
 * Modelagem de Dados
-* Power BI Avançado
+
+---
+## 📜 Certificados
+
+### 📄 Certificado Power BI
+![Certificado Power BI](./imagem/CertificadoPowerBi.jpg)
+
+### 📄 Certificado Excel
+![Certificado SQL](./imagem/CertificadoExcel.jpg)
 
 ---
 
 # 📫 Contato
 
-🔗 LinkedIn: (coloque seu link)
-🔗 GitHub: https://github.com/seuusuario
-
-
-quero colocar isso no github antes de msotrar meus projetos, onde e como coloco?
+🔗 LinkedIn: https://www.linkedin.com/in/vitoria-bernardes-2332b4345
 
