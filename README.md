@@ -9,9 +9,7 @@ Este projeto foi desenvolvido com o objetivo de analisar o desempenho comercial 
 
 ## 📊 Dashboard
 
-<p align="center">
-  <img src="Dashboard.png" width="900"/>
-</p>
+![Dashboard](Imagem/Dashboard.png)
 
 ---
 
