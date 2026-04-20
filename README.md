@@ -1,70 +1,82 @@
 
-# 📊 Dashboard de Vendas - Power BI
 
-📌 Projeto de análise de vendas com foco em desempenho comercial, identificação do melhor vendedor e comportamento do faturamento ao longo do tempo.
+# 📊 Análise de Desempenho de Vendas | Power BI
 
----
-
-## 🎯 Objetivo
-
-Analisar o desempenho de vendas, identificar o melhor vendedor e entender a evolução do faturamento.
+## 📌 Contexto
+Este projeto foi desenvolvido com o objetivo de analisar o desempenho comercial de uma operação de vendas, identificando padrões de faturamento, performance individual de vendedores e distribuição regional dos resultados.
 
 ---
 
-## 📌 Indicadores Criados
+## 📊 Dashboard
 
-* Faturamento Total
-* Top Vendedor
-* Faturamento do Top Vendedor
-* Ranking de Vendedores
-* Faturamento por Categoria
-* Faturamento por Data
+<p align="center">
+  <img src="images/dashboard.png" width="900"/>
+</p>
+
+---
+
+## 🎯 Objetivo da Análise
+- Monitorar o faturamento total
+- Identificar o vendedor com melhor desempenho
+- Avaliar a performance por produto
+- Analisar a distribuição das vendas por região
+- Acompanhar a evolução do faturamento ao longo do tempo
+
+---
+
+## 📈 Principais Métricas
+- **Faturamento Total:** R$ 2.590  
+- **Top Vendedor:** João  
+- **Faturamento do Top Vendedor:** R$ 1.000  
+
+---
+
+## 🔎 Análises Realizadas
+
+### Performance por Produto
+O produto *Tênis* concentra a maior parcela do faturamento, indicando maior aceitação ou demanda no período analisado.  
+Os produtos *Camiseta* e *Jaqueta* apresentam desempenho intermediário, enquanto *Boné* possui baixa representatividade.
+
+### Ranking de Vendedores
+Observa-se concentração de resultados no vendedor João, que lidera com diferença relevante em relação aos demais.  
+Esse comportamento pode indicar dependência de performance individual dentro da operação.
+
+### Distribuição Regional
+A região Sul apresenta maior participação no faturamento, seguida pelo Sudeste e Nordeste.  
+Esse padrão pode orientar estratégias comerciais e alocação de esforços de vendas.
+
+### Evolução Temporal
+O faturamento apresenta tendência de queda ao longo do período analisado, o que pode indicar:
+- Redução de demanda
+- Sazonalidade
+- Necessidade de ações comerciais corretivas
+
+---
+
+## 💡 Principais Insights
+- Forte concentração de receita em um único vendedor
+- Produto com maior impacto no faturamento claramente identificado
+- Diferença significativa de desempenho entre regiões
+- Tendência de queda que pode impactar resultados futuros
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
-
-* Power BI
-* Excel
-* DAX
-
----
-
-## 📈 Insights
-
-* A vendedora Ana apresentou maior faturamento
-* A categoria Móveis teve maior volume de vendas
-* Crescimento de vendas no final do período
-* Diferença de desempenho entre vendedores
+- Power BI (modelagem e visualização)
+- Excel (tratamento de dados)
+- DAX (criação de métricas)
 
 ---
 
-## 🎛️ Filtros
-
-* Região (Nordeste, Sudeste, Sul)
-
----
-
-## 📷 Dashboard
-
-
-Veja meu dashboard aqui: ![Dashboard](Dashboard.png)
+## 📁 Estrutura do Projeto
+- Base de dados (.xlsx)
+- Arquivo do dashboard (.pbix)
 
 ---
 
-## 📂 Arquivos
-
-* Dashboard Power BI (.pbix)
-* Base de dados (Excel)
-
----
-
-# 🎯 Atualmente estudando
-
-* SQL
-* DAX
-* Modelagem de Dados
-
+## 📬 Contato
+Estou em busca de oportunidades na área de Dados (BI / Análise de Dados).  
+Fico à disposição para conversar sobre este projeto ou outras experiências.
 ---
 
 🔗 LinkedIn: https://www.linkedin.com/in/vitoria-bernardes-2332b4345
