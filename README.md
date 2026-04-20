@@ -10,7 +10,7 @@ Este projeto foi desenvolvido com o objetivo de analisar o desempenho comercial 
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" width="900"/>
+  <img src="dashboard.png" width="900"/>
 </p>
 
 ---
